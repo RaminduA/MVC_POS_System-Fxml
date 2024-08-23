@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Thogakade:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Thogakade_jar</output-path>
+    <root id="archive" name="Thogakade.jar">
+      <element id="module-output" name="Thogakade" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-8.0.25.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
